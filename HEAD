@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 5b0eedb94b711dbb6d2e8093f3c96d7f8ba95536 agent <agent@replit.com> 1777326940 +0000	commit (initial): Initial commit
-5b0eedb94b711dbb6d2e8093f3c96d7f8ba95536 bee28ad08293b9007e6d04e9d0105cecbf0e2e13 rhea-12 <58300905-rhea-12@users.noreply.replit.com> 1777342463 +0000	commit: Add authentication and core API routes for online store management
-bee28ad08293b9007e6d04e9d0105cecbf0e2e13 a74e74361e25073c3d8d7007bb9a3cb8c1d65114 rhea-12 <58300905-rhea-12@users.noreply.replit.com> 1777343189 +0000	commit: Update website header to use a dark logo and maintain a white background
-a74e74361e25073c3d8d7007bb9a3cb8c1d65114 4fe95655a862b981fdf515be9a9b8e27fa8878ac rhea-12 <58300905-rhea-12@users.noreply.replit.com> 1777343332 +0000	commit: Update hero background image and adjust home page styling
-4fe95655a862b981fdf515be9a9b8e27fa8878ac 8f90811c405d72e60deeffe3f3b1ccf3eee8c470 rhea-12 <58300905-rhea-12@users.noreply.replit.com> 1777344310 +0000	commit: Update visual assets for the online store's interface
-8f90811c405d72e60deeffe3f3b1ccf3eee8c470 47d5e98875f857b56cf122327e3eaeaa32acbfd3 rhea-12 <58300905-rhea-12@users.noreply.replit.com> 1777345146 +0000	commit: Add new admin features and enhance existing ones for better store management
-47d5e98875f857b56cf122327e3eaeaa32acbfd3 6930e80113ec7abc24d365fcaef11454edd8d377 rhea-12 <58300905-rhea-12@users.noreply.replit.com> 1777518912 +0000	commit: Update store branding, customer management, and service features
